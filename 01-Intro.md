@@ -41,7 +41,7 @@ See Canvas
   * computational notebooks (e.g., Jupyter) -- combine code, results, text and images in a single document
   * down sides: can be confusing, foster poor coding practices, difficult to share and collaborate
   * "A 2019 study found that just 24% of 863,878 publicly available Jupyter notebooks on GitHub could be successfully re-executed, and only 4% produced the same results."
-  * "Notebooks are messy. You write stuff, keep old crusty code behind, and it's hard to kind of figure out which cells to execute in the right order because you're trying different things.?
+  * "Notebooks are messy. You write stuff, keep old crusty code behind, and it's hard to figure out which cells to execute in the right order because you're trying different things."
 * version control is a challenge
   * it's hard to "diff" a Jupyter notebook -- they often have binary content, and content often changes when rerun
   * Colab has added some diff functionality to their jupyter in a container, which is an improvement
