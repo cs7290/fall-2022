@@ -1,6 +1,10 @@
 
 # Earthquakes
 
+## Notebook for tonight
+
+* [CS 7290 -- 19 Sep](https://observablehq.com/d/74c9e3d696093337)
+
 ## Submit notebook URL
 
 * Submit the URL for the latest version of your three-little-circles notebook in Canvas
