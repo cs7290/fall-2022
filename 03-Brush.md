@@ -5,7 +5,7 @@
 
 * Set up a github pages site
 * Raw HTML recommended
-* [stinky2](ds5110.github.io/stinky2)
+* [stinky2](http://ds5110.github.io/stinky2)
 
 # Vote
 
