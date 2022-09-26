@@ -13,7 +13,7 @@ Collect the candidates
 
 ## Case study
 
-* Remarkable cartography: Projection transitions](https://observablehq.com/@d3/projection-transitions)
+* Remarkable cartography: [Projection transitions](https://observablehq.com/@d3/projection-transitions)
 
 # Brushable earthquakes
 
