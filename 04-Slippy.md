@@ -94,6 +94,7 @@ Investigate what's going on in the source
 ## Earthquakes on Leaflet
 
 * [D3 + Leaflet](https://observablehq.com/@pbogden/d3-leaflet?collection=@pbogden/leaflet)
+* [D3 + Mapbox](https://observablehq.com/@john-guerra/mapbox-d3)
 * [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet?collection=@pbogden/earthquakes)
 
 ## Exercise -- Earthquakes on MapLibre
