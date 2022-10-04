@@ -95,3 +95,16 @@ Investigate what's going on in the source
 
 * [D3 + Leaflet](https://observablehq.com/@pbogden/d3-leaflet?collection=@pbogden/leaflet)
 * [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet?collection=@pbogden/earthquakes)
+
+## Exercise -- Earthquakes on MapLibre
+
+* Add earthquakes to the MapLibre map
+  * Leaflet and MapLibre have similar APIs.
+  * So look here for guidance: [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet)
+* Add an interactive filter with [Inputs.range()](https://github.com/observablehq/inputs#Range)
+
+## Looking ahead
+
+* Programmatic interactions with the map
+
+
