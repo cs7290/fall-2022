@@ -103,7 +103,8 @@ Investigate what's going on in the source
 
 * Add earthquakes to the MapLibre map
   * Leaflet and MapLibre have similar APIs.
-  * So look here for guidance: [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet)
+  * This presents one approach -- it's a classic: [D3 + Leaflet](https://bost.ocks.org/mike/leaflet/)
+  * This might be helpful: [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet)
 * Add an interactive filter with [Inputs.range()](https://github.com/observablehq/inputs#Range)
 
 ## Looking ahead
