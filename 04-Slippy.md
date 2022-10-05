@@ -93,9 +93,11 @@ Investigate what's going on in the source
 
 ## Earthquakes on Leaflet
 
-* [D3 + Leaflet](https://observablehq.com/@pbogden/d3-leaflet?collection=@pbogden/leaflet)
-* [D3 + Mapbox](https://observablehq.com/@john-guerra/mapbox-d3)
-* [Earthquakes on Leaflet](https://observablehq.com/@pbogden/earthquakes-on-leaflet?collection=@pbogden/earthquakes)
+* [D3 + Leaflet](https://bost.ocks.org/mike/leaflet/) -- the classic
+* [D3 + Leaflet](https://observablehq.com/@pbogden/d3-leaflet?collection=@pbogden/leaflet) -- ported to Observable
+* [Dots on a map: setup-gl](https://bl.ocks.org/enjalot/dc1ce756527c072885dc) -- enjalot bl.ock
+* [Mapbox + D3 SVG overlay](https://bl.ocks.org/enjalot/dc1ce756527c072885dc) -- enjalot gist
+* [D3 + Mapbox](https://observablehq.com/@john-guerra/mapbox-d3) -- john-guerra notebook
 
 ## Exercise -- Earthquakes on MapLibre
 
