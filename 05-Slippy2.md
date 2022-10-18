@@ -85,3 +85,4 @@ This is general animation -- several methods, each with its own pros & cons
 * [MapLibre stinky](https://observablehq.com/d/d0d6b1f28ef7e5a5)
   * TODO #2 -- Create a project plan for the prototype
   * TODO #3 -- Start on it...
+* [Stinky](https://observablehq.com/d/095056cccbc4d2e6@678)
