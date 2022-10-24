@@ -23,7 +23,7 @@
 * [d3.lineRadial](https://observablehq.com/@d3/d3-lineradial) -- observable notebook
   * the animation uses [now](https://observablehq.com/@observablehq/stdlib#nowSection), which is part of the [Standard Library](https://observablehq.com/@observablehq/stdlib)
   * the animation draws on canvas, which doesn't have selectable elements
-  * to do the same thing on SVG, you'd use `d3.lineRadial()(spiral)`
+  * to do the same thing on SVG, you'd use `d3.lineRadial()(spiral)` with a "path" element's "d" attribute
   * the canvas vs SVG distinction is clearer from the [d3-shape](https://github.com/d3/d3-shape) API reference on github
   * See: [Introducing D3 shape](https://medium.com/@mbostock/introducing-d3-shape-73f8367e6d12) (2015) by Mike Bostock
   * And: [Introucing D3 scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f) (2015) by Mike Bostock
