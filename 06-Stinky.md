@@ -16,6 +16,8 @@
   * [MapLibre Stinky](https://observablehq.com/d/08ecb9885b4b868c@197)
     * Heatmap -- still working on color scale for density
   * [Radial Histogram](https://observablehq.com/d/271570a96e6dcedf)
+  * [Radial area chart with brush](https://observablehq.com/d/195b555c676fc016)
+    * This is the "canonical version" as of this evening
 
 ## d3.area
 
