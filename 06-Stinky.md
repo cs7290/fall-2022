@@ -9,8 +9,12 @@
   * Schools -- collected some data
 * Submissions
   * [Stinky with MapLibre](https://observablehq.com/d/f6ad19f1d33ad186)
+    * [Geocoding schools](https://observablehq.com/d/f305f4a853afe835)
   * [Stinkfinder Libre](https://observablehq.com/d/b9e12b358c4f1ee3@275) 
+    * Uses the geocoding -- automatically creates dropdown with schools schools near Portland
+    * Flies to selected school
   * [MapLibre Stinky](https://observablehq.com/d/08ecb9885b4b868c@197)
+    * Heatmap -- still working on color scale for density
   * [Radial Histogram](https://observablehq.com/d/271570a96e6dcedf)
 
 ## d3.area
@@ -28,6 +32,8 @@
   * See: [Introducing D3 shape](https://medium.com/@mbostock/introducing-d3-shape-73f8367e6d12) (2015) by Mike Bostock
   * And: [Introucing D3 scale](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f) (2015) by Mike Bostock
   * Don't forget string interpolation with Observable's [Hyptertext Literal](https://observablehq.com/@observablehq/htl)
+* [d3-area](https://observablehq.com/d/7f87fe58cc0c81e5) -- my notebook with examples
+
 ## Pies
 
 * [d3-pie](https://github.com/d3/d3-shape/blob/main/README.md#pies) -- d3.pie
