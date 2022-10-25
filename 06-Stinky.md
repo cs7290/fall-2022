@@ -1,6 +1,10 @@
 
 # 06-Stinky
 
+# Updated timeline
+
+* [plan.md](plan.md)
+
 # Stinky plan
 
 * [Stinky Plan](https://observablehq.com/d/5b62069ac02499e1) -- notebook
