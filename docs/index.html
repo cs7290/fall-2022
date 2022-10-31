@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Earthquake demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Fixed top</a>
+      </div>
+    </nav>
+
+    <div class="container-fluid" style="margin-top:80px">
+      <h1 class="text-center">Responsive Columns</h1>
+      <p>Resize the browser window to see the effect.</p>
+      <p>The columns will automatically stack on top of each other when the screen is less than 576px wide.</p>
+      <div class="row" style="margin-top:80px">
+        <div id="brush" class="col-sm-8 p-3"></div>
+        <div id="map" class="col-sm-4 p-3 bg-light text-white"></div>
+      </div>
+    </div>
+
+    <div class="container mt-3" style="height: 1500px">
+      <h2>Toggleable Tabs</h2>
+      <br>
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+          <a class="nav-link active" data-bs-toggle="tab" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="tab" href="#menu1">Menu 1</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" data-bs-toggle="tab" href="#menu2">Menu 2</a>
+        </li>
+      </ul>
+    
+      <!-- Tab panes -->
+      <div class="tab-content">
+        <div id="home" class="container tab-pane active"><br>
+          <h3>HOME</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+        <div id="menu1" class="container tab-pane fade"><br>
+          <h3>Menu 1</h3>
+          <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        <div id="menu2" class="container tab-pane fade"><br>
+          <h3>Menu 2</h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+        </div>
+      </div>
+    </div>
+  
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module">
+
+      // Load the Observable runtime and inspector.
+      import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+
+      // Your notebook, compiled as an ES module.
+      import notebook from "https://api.observablehq.com/@pbogden/brushable-earthquakes-ii.js?v=3";
+
+      // Load the notebook, observing its cells with a default Inspector
+      // that simply renders the value of each cell into the provided DOM node.
+      new Runtime().module(notebook, name => {
+        if (name === "mymap") return Inspector.into("#map")();
+        if (name === "mychart") return Inspector.into("#brush")();
+        if (name === "map_filter") return true;
+      });
+    </script>
+  </body>
+</html>
