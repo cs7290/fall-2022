@@ -19,7 +19,7 @@ bootstrap intro
   ```
   python -m http.server
   ```
-* Browse to http://localhost:3000 (same as http://127.0.0.1:3000)
+* Browse to http://localhost:8000 (same as http://127.0.0.1:8000)
 * [docs/index3.html](http://localhost:8000/docs/index3.html)
 
 ## Noteworthy
