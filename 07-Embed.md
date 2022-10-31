@@ -6,9 +6,9 @@ Embedding with style
 ## Remember the plan
 
 * [plan](plan.md)
-* [https://observablehq.com/d/40eebddc9b8eba2d@244)
 * [lh](https://observablehq.com/d/40eebddc9b8eba2d@244)
 * [pm](https://observablehq.com/d/271570a96e6dcedf@940)
+* [nw](https://observablehq.com/d/ecc6cb841de8b550@632)
 
 ## Exercise #1
 
