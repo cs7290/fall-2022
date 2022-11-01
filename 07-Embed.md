@@ -14,13 +14,10 @@ Choose one or more of the following projects...
   * consider creating a github-pages version with bootstrap styling
   * note that there are several tabs in the excel file
 * stinky3 dashboard
-  * implement basic functionality that we discussed in class -- time and wind-direction filtering
+  * adapt [this notebook](https://observablehq.com/d/c715e75b5b4c5cfd) to maplibre
   * this can be an independent implementation (working on your own) or work with the group that formed in class
-  * once the technical implementation is accomplished, work on the stinky 3 story
-* stinky3 story
-  * help tell the story of stinky3
-  * develop a stinky3 prototype will combine stinky2 elements with the stinky3 dashboard
   * integrate the larger dataset: https://github.com/ds5110/stinky2/blob/main/output_data/smc_data.csv
+  * tell the story, better -- integrate it into an html page with bootstrap styling
 
 ## polleverywhere
 
