@@ -78,13 +78,15 @@ Migrate the demo above to bootstrap 5
 Embed some earthquakes
 
 * [Brushable earthquakes II](https://observablehq.com/@pbogden/brushable-earthquakes-ii)
-* [my solution](http://localhost:8000/docs/index0.html)
+* [my solution](http://localhost:8000/docs/index0.html) -- entire embed
+* [my solution](http://localhost:8000/docs/index1.html) -- selected embed
 
 ## Exercise #3
 
 Put the earthquakes in a dashboard
 
-* [my solution](http://localhost:8000/docs/index1.html)
+* [my solution](http://localhost:8000/docs/index2.html) -- localhost
+* [my solution](http://cs7290.github.io/fall-2022/index2.html) -- github.io
 * tidbits
   * [Dashboard](https://observablehq.com/@mbostock/dashboard)
   * [Authentication simulator](https://observablehq.com/@mbostock/authentication-simulator)
