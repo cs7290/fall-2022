@@ -40,7 +40,7 @@ bootstrap intro
   python -m http.server
   ```
 * Browse to http://localhost:8000 (same as http://127.0.0.1:8000)
-* [docs/index3.html](http://localhost:8000/docs/index3.html)
+* Solution -- docs5/index3.html
 
 ## Noteworthy
 
@@ -70,16 +70,11 @@ bootstrap intro
 Migrate the demo above to bootstrap 5
 
 * Convert the [jumbotron v3 tutorial](https://www.w3schools.com/bootstrap/) to v5
-* localhost
-  * [step 1](http://localhost:8000/index4.html) -- changing only bootstrap's version number
-  * [step 2](http://localhost:8000/index5.html) -- adding a v5 bootstrap-examples jumbotron
-  * [my solution #1](http://localhost:8000/index6.html) -- adapting the w3schools v3 demo
-  * [my solution #2](http://localhost:8000/index7.html) -- adapting the w3schools v5 demo
-* github.io
-  * [step 1](http://cs7290.github.io/fall-2022/index4.html) -- changing only bootstrap's version number
-  * [step 2](http://cs7290.github.io/fall-2022/index5.html) -- adding a v5 bootstrap-examples jumbotron
-  * [my solution #1](http://cs7290.github.io/fall-2022/index6.html) -- adapting the w3schools v3 demo
-  * [my solution #2](http://cs7290.github.io/fall-2022/index7.html) -- adapting the w3schools v5 demo
+* solutions
+  * [docs5/index4.html](docs5.index4.html) -- changing only bootstrap's version number
+  * [docs5/index5.html](docs5/index5.html) -- adding a v5 bootstrap-examples jumbotron
+  * [docs5/index6.html](docs5/index6.html) -- customizing the v5 bootstrap jumbotron to look like the v3 jumbotron
+  * [docs5/index7.html](docs5/index7.html) -- customizing the w3schools v5 jumbotron to look like the v3 jumbotron
 
 ## Embedding (review)
 
@@ -97,7 +92,7 @@ Migrate the demo above to bootstrap 5
 
 ## Exercise #3
 
-Embed some earthquakes
+Embed some brushable earthquakes
 
 * [Brushable earthquakes II](https://observablehq.com/@pbogden/brushable-earthquakes-ii)
 * localhost
@@ -109,7 +104,7 @@ Embed some earthquakes
 
 ## Exercise #4
 
-Put the earthquakes in a dashboard
+Put the earthquakes in a bootstrap dashboard
 
 * [my solution](http://localhost:8000/docs/index2.html) -- localhost
 * [in a dashboard](http://cs7290.github.io/fall-2022/index2.html) -- github.io
