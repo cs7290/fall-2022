@@ -20,7 +20,8 @@ Choose one of the following projects...
   * excel resources: [excel](https://observablehq.com/collection/@observablehq/excel) -- observable collection
   * build on the MapLibre capabilities we've explored in class
   * consider creating a github-pages version with bootstrap styling
-  * note that there are several tabs in the excel file
+  * Note that there are several tabs in the excel file
+  * Note also: some DS 5110 students will be interested in using your implementation! (it's okay to work with them)
 
 It's okay to work in groups on this assignment and submit one URL per group in canvas
 
