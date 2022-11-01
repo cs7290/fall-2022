@@ -70,10 +70,16 @@ bootstrap intro
 Migrate the demo above to bootstrap 5
 
 * Convert the [jumbotron v3 tutorial](https://www.w3schools.com/bootstrap/) to v5
-* [step 1](http://localhost:8000/index4.html) -- changing only bootstrap's version number
-* [step 2](http://localhost:8000/index5.html) -- adding a v5 bootstrap-examples jumbotron
-* [my solution #1](http://localhost:8000/index6.html) -- adapting the w3schools v3 demo
-* [my solution #2](http://localhost:8000/index7.html) -- adapting the w3schools v5 demo
+* localhost
+  * [step 1](http://localhost:8000/index4.html) -- changing only bootstrap's version number
+  * [step 2](http://localhost:8000/index5.html) -- adding a v5 bootstrap-examples jumbotron
+  * [my solution #1](http://localhost:8000/index6.html) -- adapting the w3schools v3 demo
+  * [my solution #2](http://localhost:8000/index7.html) -- adapting the w3schools v5 demo
+* github.io
+  * [step 1](http://cs7290.github.io/fall-2022/index4.html) -- changing only bootstrap's version number
+  * [step 2](http://cs7290.github.io/fall-2022/index5.html) -- adding a v5 bootstrap-examples jumbotron
+  * [my solution #1](http://cs7290.github.io/fall-2022/index6.html) -- adapting the w3schools v3 demo
+  * [my solution #2](http://cs7290.github.io/fall-2022/index7.html) -- adapting the w3schools v5 demo
 
 ## Embedding (review)
 
@@ -89,7 +95,7 @@ Migrate the demo above to bootstrap 5
   ```
 * [Advanced Embedding and Downloading](https://observablehq.com/@observablehq/advanced-embeds)
 
-## Exercise #2
+## Exercise #3
 
 Embed some earthquakes
 
@@ -101,7 +107,7 @@ Embed some earthquakes
   * [entire embed](http://cs7290.github.io/fall-2022/index0.html)
   * [selected embed](http://cs7290.github.io/fall-2022/index1.html)
 
-## Exercise #3
+## Exercise #4
 
 Put the earthquakes in a dashboard
 
