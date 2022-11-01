@@ -3,6 +3,25 @@
 
 Embedding with style
 
+## Assignment (due 7 Nov)
+
+Choose one or more of the following projects...
+
+* bioscience map
+  * create a notebook to create an interactive map map of mainefrom [this data](./data)
+  * excel resources: [excel](https://observablehq.com/collection/@observablehq/excel) -- observable collection
+  * build on the MapLibre capabilities we've explored in class
+  * consider creating a github-pages version with bootstrap styling
+  * note that there are several tabs in the excel file
+* stinky3 dashboard
+  * implement basic functionality that we discussed in class -- time and wind-direction filtering
+  * this can be an independent implementation (working on your own) or work with the group that formed in class
+  * once the technical implementation is accomplished, work on the stinky 3 story
+* stinky3 story
+  * help tell the story of stinky3
+  * develop a stinky3 prototype will combine stinky2 elements with the stinky3 dashboard
+  * integrate the larger dataset: https://github.com/ds5110/stinky2/blob/main/output_data/smc_data.csv
+
 ## polleverywhere
 
 * [pollev](http://pollev.com/pbogden)
