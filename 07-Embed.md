@@ -22,7 +22,7 @@ Choose one of the following projects...
   * consider creating a github-pages version with bootstrap styling
   * note that there are several tabs in the excel file
 
-It's okay to work in groups on this assignment and submit the same one URL per group in canvas
+It's okay to work in groups on this assignment and submit one URL per group in canvas
 
 ## polleverywhere
 
