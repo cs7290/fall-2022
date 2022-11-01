@@ -73,14 +73,14 @@ bootstrap intro
 
 ## Exercise #2
 
-Migrate the demo above to bootstrap 5
+Migrate the v3 demo above to bootstrap v5
 
-* Convert the [jumbotron v3 tutorial](https://www.w3schools.com/bootstrap/) to v5
-* solutions
-  * [docs5/index4.html](./docs5/index4.html) -- changing only bootstrap's version number
-  * [docs5/index5.html](./docs5/index5.html) -- adding a v5 bootstrap-examples jumbotron
-  * [docs5/index6.html](./docs5/index6.html) -- customizing the v5 bootstrap jumbotron to look like the v3 jumbotron
-  * [docs5/index7.html](./docs5/index7.html) -- customizing the w3schools v5 jumbotron to look like the v3 jumbotron
+* That is, convert this [jumbotron v3 tutorial](https://www.w3schools.com/bootstrap/) to v5
+* stepwise solutions...
+  * [docs5/index4.html](./docs5/index4.html) -- changing only bootstrap's version number breaks the jumbotron
+  * [docs5/index5.html](./docs5/index5.html) -- add a v5 bootstrap-examples jumbotron (it works but...)
+  * [docs5/index6.html](./docs5/index6.html) -- customize the v5 bootstrap jumbotron to look like the v3 jumbotron
+  * [docs5/index7.html](./docs5/index7.html) -- customize the w3schools v5 jumbotron to look like the v3 jumbotron
 
 ## Embedding (review)
 
