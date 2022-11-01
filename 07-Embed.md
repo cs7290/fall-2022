@@ -5,19 +5,24 @@ Embedding with style
 
 ## Assignment (due 7 Nov)
 
-Choose one or more of the following projects...
+Choose one of the following projects...
 
+* stinky3 prototype -- tell the stinky story, better...
+  * either...
+    * adapt [this notebook](https://observablehq.com/d/c715e75b5b4c5cfd) to maplibre or
+    * implement your own alternative to the stinky2 interactive map
+  * integrate the larger dataset: https://github.com/ds5110/stinky2/blob/main/output_data/smc_data.csv
+  * either...
+    * adapt the html at [stinky2](https://ds5110.github.io/stinky2/) or
+    * create an html page with bootstrap styling for your prototype
 * bioscience map
   * create a notebook to create an interactive map map of mainefrom [this data](./data)
   * excel resources: [excel](https://observablehq.com/collection/@observablehq/excel) -- observable collection
   * build on the MapLibre capabilities we've explored in class
   * consider creating a github-pages version with bootstrap styling
   * note that there are several tabs in the excel file
-* stinky3 dashboard
-  * adapt [this notebook](https://observablehq.com/d/c715e75b5b4c5cfd) to maplibre
-  * this can be an independent implementation (working on your own) or work with the group that formed in class
-  * integrate the larger dataset: https://github.com/ds5110/stinky2/blob/main/output_data/smc_data.csv
-  * tell the story, better -- integrate it into an html page with bootstrap styling
+
+It's okay to work in groups on this assignment and submit the same one URL per group in canvas
 
 ## polleverywhere
 
