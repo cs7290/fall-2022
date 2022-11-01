@@ -58,6 +58,7 @@ bootstrap intro
     * [subresource integrity (SRI)](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
     * [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
   * You can't simply replace v3 with v5, for example:
+    * the following links require `python -m http.server`
     * [my docs5/index3.html](http://localhost:8000/index3.html) -- v3
     * [my docs5/index5.html](http://localhost:8000/index5.html) -- v5 (nothing else changed)
 * Bootstrap 5 examples
@@ -71,10 +72,10 @@ Migrate the demo above to bootstrap 5
 
 * Convert the [jumbotron v3 tutorial](https://www.w3schools.com/bootstrap/) to v5
 * solutions
-  * [docs5/index4.html](docs5/index4.html) -- changing only bootstrap's version number
-  * [docs5/index5.html](docs5/index5.html) -- adding a v5 bootstrap-examples jumbotron
-  * [docs5/index6.html](docs5/index6.html) -- customizing the v5 bootstrap jumbotron to look like the v3 jumbotron
-  * [docs5/index7.html](docs5/index7.html) -- customizing the w3schools v5 jumbotron to look like the v3 jumbotron
+  * [docs5/index4.html](./docs5/index4.html) -- changing only bootstrap's version number
+  * [docs5/index5.html](./docs5/index5.html) -- adding a v5 bootstrap-examples jumbotron
+  * [docs5/index6.html](./docs5/index6.html) -- customizing the v5 bootstrap jumbotron to look like the v3 jumbotron
+  * [docs5/index7.html](./docs5/index7.html) -- customizing the w3schools v5 jumbotron to look like the v3 jumbotron
 
 ## Embedding (review)
 
