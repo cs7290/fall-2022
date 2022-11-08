@@ -1,9 +1,9 @@
 
-08-Prototype
+# 08-Prototype
 
 Review projects from last week
 
-# For next week...
+## For next week...
 
 * Continue working on one of the class projects (stinky or bioscience map -- see below).
 * Pick one of the three project options below and start working on it.
