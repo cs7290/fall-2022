@@ -26,9 +26,9 @@ Objectives for today: lay out project goals from an informational perspective --
 
 * Has a class exercise on assessment of effective of dashboards.
 * You can pick one of ours, or any other one of your choice.
-* We'll use [this exercise](Class\ exercise.pdf) to help with completing our projects.
+* We'll use [this exercise](Class%20exercise.pdf) to help with completing our projects.
 * Examples:
-  * [Best states to retire](https://public.tableau.com/app/profile/sam.epley/viz/BestStatestoRetireintheUnitedStates/BestStatestoRetireintheUnitedStates) -- the example in the [exercise document](Class exercise.pdf)
+  * [Best states to retire](https://public.tableau.com/app/profile/sam.epley/viz/BestStatestoRetireintheUnitedStates/BestStatestoRetireintheUnitedStates) -- the example in the [exercise document](Class%20exercise.pdf)
   * The dashboard that Dr. Huang-Saad will be discussion
   * [AIDSVu map](https://map.aidsvu.org/map)
   * [Interactive Plot Dashboard](https://observablehq.com/@ambassadors/interactive-plot-dashboard)
