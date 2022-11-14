@@ -1,5 +1,6 @@
 # CS 7290 -- Fall 2022
 
+* [09-Dashboards](09-Dashboards.md) -- 14 Nov
 * [08-Prototype](08-Prototype.md) -- 7 Nov
 * [07-Embed](07-Embed.md) -- 31 Oct 
 * [06-Stinky](06-Stinky.md) -- 24 Oct 
