@@ -24,7 +24,7 @@ Objectives for today: lay out project goals from an informational perspective --
 
 ## Dr. Melanie Tory
 
-* Has a class exercise on assessment of effective of dashboards.
+* Has a [class exercise](https://drive.google.com/drive/u/3/folders/1kOMGuX7Rg97CRh73gozl80rqQXtvT_pm) on assessment of effective of dashboards.
 * You can pick one of ours, or any other one of your choice.
 * We'll use [this exercise](Class%20exercise.pdf) to help with completing our projects.
 * Examples:
