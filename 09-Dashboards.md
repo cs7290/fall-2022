@@ -21,6 +21,16 @@ Objectives for today: lay out project goals from an informational perspective --
 
 * She'll be visiting class at ~6:30 and should have T-shirts
 * Be ready with questions for the bioscience map project
+* [facilities map](https://gmri.org/projects/facilities-resource-map)
+* [jobsplan dashboard](https://maine.gov/jobsplan/dashboard)
+* [https://biomaine.org/member-directory/)
+  * Trade organization for biosciences in the state -- membership driven
+  * Good for identifying a cohort of companies for plotting
+* [EMSTAR](https://www.lifesciencesmaine.com/about)
+  * Midcoast group -- beginning to organize things
+  * Information underneath the names is more relevant for filtering, etc.
+* [Aileen's site](https://teel.sites.northeastern.edu/life-sciences-in-maine/) in early stages
+* Would like a GUI for intellectual capital rather than just brick and mortar (which is what's there now)
 
 ## Dr. Melanie Tory
 
