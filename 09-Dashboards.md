@@ -31,6 +31,9 @@ Objectives for today: lay out project goals from an informational perspective --
   * Information underneath the names is more relevant for filtering, etc.
 * [Aileen's site](https://teel.sites.northeastern.edu/life-sciences-in-maine/) in early stages
 * Would like a GUI for intellectual capital rather than just brick and mortar (which is what's there now)
+* Dataviz ideas
+  * [Obama budget](https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html)
+  * [Divisibility network](https://observablehq.com/@mbostock/divisibility-network)
 
 ## Dr. Melanie Tory
 
