@@ -35,12 +35,22 @@ Objectives for today: lay out project goals from an informational perspective --
   * [Force-directed graph](https://observablehq.com/@d3/force-directed-graph?collection=@d3/d3-drag)
   * [Obama budget](https://archive.nytimes.com/www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html)
   * [Divisibility network](https://observablehq.com/@mbostock/divisibility-network)
-* TODO
-  * Force-directed graph -- with the data we got from Aileen
-  * Add another set of labels for the institutions (6-10 unique labels)
-  * Investigate transition between two set of graph visualizations
-  * Then connect it back to the dots on a map
-  * Put the data in Google Sheet connected to a notebook
+
+## TODO -- bioscience (JN, JK, DM, AF)
+
+* Force-directed graph -- with the data we got from Aileen
+* Add another set of labels for the institutions (6-10 unique labels)
+* Investigate transition between two set of graph visualizations
+* Then connect it back to the dots on a map
+* Put the data in Google Sheet connected to a notebook
+
+## TODO -- stinky (NW, PM, AB, LH)
+
+* Integrated compass map (P)
+* Bootstrap messages (L)
+* Clustering (A) -- get the story (TBD) associated with a blob
+* How to contribute to this dataset (smell-my-city)
+* Update fairly quickly with an API (how long will it take to update the map)
 
 ## Dr. Melanie Tory
 
