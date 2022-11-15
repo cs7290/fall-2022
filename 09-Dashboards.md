@@ -51,6 +51,7 @@ Objectives for today: lay out project goals from an informational perspective --
 * Clustering (A) -- get the story (TBD) associated with a blob
 * How to contribute to this dataset (smell-my-city)
 * Update fairly quickly with an API (how long will it take to update the map)
+  * https://github.com/CMU-CREATE-Lab/smell-pittsburgh-rails/wiki/Smell-PGH-API
 
 ## Dr. Melanie Tory
 
