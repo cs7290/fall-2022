@@ -55,9 +55,15 @@ Objectives for today: lay out project goals from an informational perspective --
 
 ## Dr. Melanie Tory
 
-* Has a [class exercise](https://drive.google.com/drive/u/3/folders/1kOMGuX7Rg97CRh73gozl80rqQXtvT_pm) on assessment of effective of dashboards.
-* You can pick one of ours, or any other one of your choice.
-* We'll use [this exercise](Class%20exercise.pdf) to help with completing our projects.
+Dr. Tory has provided a dashboard-heuristics exercise.
+
+* [The exercise](https://docs.google.com/spreadsheets/d/1J-bpJZxrBxGE670K72qZw8fAMev_SdMcZcgEqYHttN8)
+  * [The instructions](Class%20exercise.pdf)
+  * In an nutshell, pick a dashboard and use the criteria in the exercise as an assessment.
+  * We'll discuss in the next class, and apply it to our own projects.
+  * You can pick one of ours, or any other one of your choice.
+  * [The folder with materials](https://drive.google.com/drive/u/3/folders/1kOMGuX7Rg97CRh73gozl80rqQXtvT_pm)
+* We'll use this approach to help with completing our projects.
 * Examples:
   * [Best states to retire](https://public.tableau.com/app/profile/sam.epley/viz/BestStatestoRetireintheUnitedStates/BestStatestoRetireintheUnitedStates) -- the example in the [exercise document](Class%20exercise.pdf)
   * The dashboard that Dr. Huang-Saad will be discussion
